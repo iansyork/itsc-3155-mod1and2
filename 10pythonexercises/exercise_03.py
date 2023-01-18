@@ -1,3 +1,10 @@
+# Group members:
+# Aman Kumar
+# Ian York
+# Nikolas Bogolis
+# Zoey Vail
+# Gabriel Van Dreel
+
 x = input("Enter an integer greater than 1: ")
 y = 0
 while(x>=0):

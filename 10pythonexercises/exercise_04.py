@@ -1,3 +1,10 @@
+# Group members:
+# Aman Kumar
+# Ian York
+# Nikolas Bogolis
+# Zoey Vail
+# Gabriel Van Dreel
+
 x = int(input("Enter a number: "))
 z = 1
 l = []
